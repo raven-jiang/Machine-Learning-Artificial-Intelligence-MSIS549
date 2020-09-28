@@ -1,4 +1,4 @@
-# MSIS549-Machine-Learning-Artificial-Intelligence
+# Machine-Learning-Artificial-Intelligence-MSIS549
 This repository stores my assignments and labs from the graduate curriculum - Machine Learning And Artificial Intelligence For Business Applications (MSIS 549).
 
 Assignment 1: Multi-class classification problem on Reuters Newswires Dataset. How to encode labels and solve a multi-class classification problem? How to avoid overfitting with epoch selection? How to adjust Dense Layer and Hidden Layer to improve model performance? Why is it important to have having sufficiently large intermediate layers
